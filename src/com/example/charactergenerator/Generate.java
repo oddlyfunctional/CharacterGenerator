@@ -34,24 +34,23 @@ public class Generate extends Activity {
 		LinearLayout layout = new LinearLayout(this);
 		layout.setOrientation(LinearLayout.VERTICAL);
 
-		for (String group : characteristics.values().keySet()) {
+		for (Group group : characteristics.getGroups()) {
 			LinearLayout groupListView = new LinearLayout(this);
 			groupListView.setOrientation(LinearLayout.VERTICAL);
 
 			TextView groupLabel = new TextView(this);
-			groupLabel.setText(group);
+			groupLabel.setText(group.getName());
 			groupListView.addView(groupLabel);
 
-			for (String attribute : characteristics.values().get(group)
-					.keySet()) {
+			for (Attribute attribute : group.getAttributes()) {
 
 				TextView attributeLabel = new TextView(this);
-				attributeLabel.setText(attribute);
+				attributeLabel.setText(attribute.getName());
 
 				Spinner optionsSpinner = new Spinner(this);
 				ArrayAdapter<String> adp = new ArrayAdapter<String>(this,
 						android.R.layout.simple_spinner_dropdown_item,
-						characteristics.values().get(group).get(attribute));
+						attribute.getOptionsAsStringList());
 				optionsSpinner.setAdapter(adp);
 				optionsSpinner.setVisibility(View.VISIBLE);
 

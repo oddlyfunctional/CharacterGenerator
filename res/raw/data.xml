@@ -1,1376 +1,1407 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
-  <attribute>
-    <name>characterGenderTypeSelect</name>
-    <option>
-      <name>Male</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Female</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterZodiacElementTypeSelect</name>
-    <option>
-      <name>Aries/Fire</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Taurus/Earth</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Gemini/Wind</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Cancer/Water</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Leo/Fire</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Virgo/Earth</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Libra/Wind</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Scorpio/Water</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Sagittarius/Fire</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Capricorn/Earth</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Aquarius/Wind</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Pisces/Water</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterPowerTypeSelect</name>
-    <option>
-      <name>None</name>
-      <weight>15</weight>
-    </option>
-    <option>
-      <name>Shape Shifter Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Transformation Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Magician Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Summoner Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Absorption/Vampire Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Accelerated Recovery Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Healer Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Psychic Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Telekinetic Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Telepathic Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Invisibility Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Prehensile Hair Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Merging Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Harmonic/Vocal Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Super Human Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Water Breathing Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Wall Crawling Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Environmental Control Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Energy Manipulation Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Time Control Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Teleportation Type</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterTypeSelect</name>
-    <option>
-      <name>Hero</name>
-      <weight>15</weight>
-    </option>
-    <option>
-      <name>Villain</name>
-      <weight>15</weight>
-    </option>
-    <option>
-      <name>Common Folk</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>heroSubTypesSelect</name>
-    <option>
-      <name>Diety Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Royalty Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Occultist Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Religious Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Warrior/Soldier Type</name>
-      <weight>3</weight>
-    </option>
-    <option>
-      <name>Comedic Performer Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Spy Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Law Enforcer Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Thief Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Vigilante Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Raider Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Mercenary Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Gangster Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Assasin Type</name>
-      <weight>2</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>villainSubTypesSelect</name>
-    <option>
-      <name>Corrupt Diety Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Corrupt Royalty Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Corrupt Occultist Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Corrupt Religious Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Corrupt Warrior/Soldier Type</name>
-      <weight>3</weight>
-    </option>
-    <option>
-      <name>Corrupt Comedic Performer Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Corrupt Spy Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Corrupt Law Enforcer Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Thief Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Vigilante Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Raider Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Mercenary Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Gangster Type</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Assasin Type</name>
-      <weight>2</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>commonSubTypesSelect</name>
-    <option>
-      <name>Business Owner Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Forger/Smith Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Appraiser Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Dealer Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Dancer Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Seductress/Seducer Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Wise Man/Woman Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Visionary/Arts Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Mason/Builder Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Farmer Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Scientist Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Philosopher Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Peasant Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Healer Type</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>heroTypesSelect</name>
-    <option>
-      <name>Enigmatic Hero</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Cynical Hero</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Loner Hero</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Hot Shot Hero</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Honorable Hero</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Charming Hero</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Clumsy Hero</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Brave Hero</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Vulgar Hero</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Cowardly Hero</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Jack of All Trades Hero</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>villainTypesSelect</name>
-    <option>
-      <name>Enigmatic Villain</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Cynical Villain</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Manipulative Villain</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Loner Villain</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Hot Shot Villain</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Honorable Villain</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Sadistic Villain</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Charming Villain</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Clumsy Villain</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Vulgar Villain</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Mentally Unstable Villain</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>commonTypesSelect</name>
-    <option>
-      <name>Charming Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Cowardly Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Shy Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Superstitious Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>No Ambition Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Deceptive Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Vulgar Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Drunkard Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Jealous Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Foolish Type</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-
-
-
-
-  <attribute>
-    <name>characterClothingErasSelect</name>
-    <option>
-      <name>Ancient Egyptian Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Ancient Greek Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Ancient Roman Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Ancient Chinese Fashion/Cloth</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Native American Tribal Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Barbarian Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Traditional Spanish Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Traditional German Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Traditional African Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Traditional Russian Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Traditional Japanese Fashion Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Traditional Turkish Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Traditional Mongolian Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Traditional Indian Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Islamic Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Medieval Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Renaissance Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Regency Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Romantic Era Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Victorian Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Edwardian Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Modern Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Futuristic Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Punk/Rocker Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Gothic Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Steam Punk Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Post Apocalyptic Fashion/Clothing</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterClothingTypeSelect</name>
-    <option>
-      <name>Loose Garment Type</name>
-      <weight>5</weight>
-    </option>
-    <option>
-      <name>Fur Type</name>
-      <weight>5</weight>
-    </option>
-    <option>
-      <name>Short/Revealing Type</name>
-      <weight>6</weight>
-    </option>
-    <option>
-      <name>Heavy Wear Type</name>
-      <weight>5</weight>
-    </option>
-    <option>
-      <name>One-Piece Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Armor Type</name>
-      <weight>5</weight>
-    </option>
-  </attribute>
-
-
-
-
-
-  <attribute>
-    <name>characterFacialHairSelect</name>
-    <option>
-      <name>None</name>
-      <weight>7</weight>
-    </option>
-    <option>
-      <name>Very Hairy/Long Beard</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Hairy/Small Beard</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Lightly Bearded</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>5 O'clock Shadow</name>
-      <weight>2</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterBodyTypeSelect</name>
-    <option>
-      <name>Very Muscular/Bulky</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Well Defined/Toned</name>
-      <weight>6</weight>
-    </option>
-    <option>
-      <name>Undefined/Moderate</name>
-      <weight>8</weight>
-    </option>
-    <option>
-      <name>Round/Flabby</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Thin/Fragile</name>
-      <weight>2</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterHeightSelect</name>
-    <option>
-      <name>Tall/8ft+</name>
-      <weight>3</weight>
-    </option>
-    <option>
-      <name>Moderate/6ft+</name>
-      <weight>4</weight>
-    </option>
-    <option>
-      <name>Short/5ft-</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterSkinToneSelect</name>
-    <option>
-      <name>Very Light/80%-90%</name>
-      <weight>2</weight>
-    </option>
-    <option>
-      <name>Light Moderate/60%-70%</name>
-      <weight>3</weight>
-    </option>
-    <option>
-      <name>Light/40%-50%</name>
-      <weight>7</weight>
-    </option>
-    <option>
-      <name>Dark Moderate/60%-70%</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Very Dark/80%-90%</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterFaceTypeSelect</name>
-    <option>
-      <name>Oval Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Rectangle Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Round Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Square Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Heart Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Triangle Type</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterHairColorSelect</name>
-    <option>
-      <name>Brown Variation</name>
-      <weight>3</weight>
-    </option>
-    <option>
-      <name>Blond Variation</name>
-      <weight>3</weight>
-    </option>
-    <option>
-      <name>Green Variation</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Red Variation</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Orange Variation</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Purple Variation</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Blue Variation</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Black Variation</name>
-      <weight>3</weight>
-    </option>
-    <option>
-      <name>White Variation</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterHairStyleSelect</name>
-    <option>
-      <name>None</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Curly Type</name>
-      <weight>9</weight>
-    </option>
-    <option>
-      <name>Waved Type</name>
-      <weight>9</weight>
-    </option>
-    <option>
-      <name>Straight Type</name>
-      <weight>9</weight>
-    </option>
-    <option>
-      <name>Coiled Type</name>
-      <weight>9</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterEyebrowShapeSelect</name>
-    <option>
-      <name>Angled</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Arched</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Curved</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Flat</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterHairLengthSelect</name>
-    <option>
-      <name>Bald</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Very Long</name>
-      <weight>5</weight>
-    </option>
-    <option>
-      <name>Long</name>
-      <weight>5</weight>
-    </option>
-    <option>
-      <name>Moderate</name>
-      <weight>5</weight>
-    </option>
-    <option>
-      <name>Short</name>
-      <weight>5</weight>
-    </option>
-    <option>
-      <name>Very Short</name>
-      <weight>3</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterEyeShapeSelect</name>
-    <option>
-      <name>Almond Eyes</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Small Eyes</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Prominent Eyes</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Hooded Eyes</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Deep-set Eyes</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Oriental Eyes</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterEyeColorSelect</name>
-    <option>
-      <name>Brown</name>
-      <weight>3</weight>
-    </option>
-    <option>
-      <name>Hazel</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Gray</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Blue</name>
-      <weight>3</weight>
-    </option>
-    <option>
-      <name>Amber</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Green</name>
-      <weight>3</weight>
-    </option>
-    <option>
-      <name>Violet</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Red</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Black</name>
-      <weight>3</weight>
-    </option>
-    <option>
-      <name>White</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterEarShapeSelect</name>
-    <option>
-      <name>Very Pointy</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Pointy</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Large</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Moderate</name>
-      <weight>6</weight>
-    </option>
-    <option>
-      <name>Small</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Very Small</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterNoseShapeSelect</name>
-    <option>
-      <name>Greek Nose</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Snub Nose</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Nubian Nose</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Roman Nose</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Hawk Nose</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Turned up Nose</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterLipShapeSelect</name>
-    <option>
-      <name>Very Fleshed</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Full</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Heart Shaped</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Thin</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Very Thin</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterSkinVariantsSelect</name>
-    <option>
-      <name>None</name>
-      <weight>10</weight>
-    </option>
-    <option>
-      <name>Freckles</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Mole</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Scratch</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Burn</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Cut</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-
-  <attribute>
-    <name>characterHairAccessorySelect</name>
-    <option>
-      <name>None</name>
-      <weight>10</weight>
-    </option>
-    <option>
-      <name>Hairpin</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Fascinator</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Ribbon</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Feather</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Band</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterHeadAccessorySelect</name>
-    <option>
-      <name>None</name>
-      <weight>10</weight>
-    </option>
-    <option>
-      <name>Earrings</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Earcuffs</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Nose Jewelry</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Cloth</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Crown</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Circlet</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Hat</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Earcuffs</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterNeckAccessorySelect</name>
-    <option>
-      <name>None</name>
-      <weight>10</weight>
-    </option>
-    <option>
-      <name>Necklace</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Choker</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Chain</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Tattoo</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterLeftArmAccessorySelect</name>
-    <option>
-      <name>None</name>
-      <weight>10</weight>
-    </option>
-    <option>
-      <name>Armlet</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Bangle</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Tattoo</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterRightArmAccessorySelect</name>
-    <option>
-      <name>None</name>
-      <weight>10</weight>
-    </option>
-    <option>
-      <name>Armlet</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Bangle</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Tattoo</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterLeftHandAccessorySelect</name>
-    <option>
-      <name>None</name>
-      <weight>10</weight>
-    </option>
-    <option>
-      <name>Rings</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Bracelet</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Hand Jewelry</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterRightHandAccessorySelect</name>
-    <option>
-      <name>None</name>
-      <weight>10</weight>
-    </option>
-    <option>
-      <name>Rings</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Bracelet</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Hand Jewelry</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterLeftLegAccessorySelect</name>
-    <option>
-      <name>None</name>
-      <weight>10</weight>
-    </option>
-    <option>
-      <name>Strap</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Leg Band</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Tattoo</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterRightLegAccessorySelect</name>
-    <option>
-      <name>None</name>
-      <weight>10</weight>
-    </option>
-    <option>
-      <name>Strap</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Leg Band</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Tattoo</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterLeftFootAccessorySelect</name>
-    <option>
-      <name>None</name>
-      <weight>10</weight>
-    </option>
-    <option>
-      <name>Anklet</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Toe Ring</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-  <attribute>
-    <name>characterRightFootAccessorySelect</name>
-    <option>
-      <name>None</name>
-      <weight>10</weight>
-    </option>
-    <option>
-      <name>Anklet</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Toe Ring</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
-
-
-
-
-  <attribute>
-    <name>characterWeaponrySelect</name>
-    <option>
-      <name>None</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Piercing Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Slicing Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Throwing Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Punching Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Launching Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Blunted Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Whipping Type</name>
-      <weight>1</weight>
-    </option>
-    <option>
-      <name>Sawing Type</name>
-      <weight>1</weight>
-    </option>
-  </attribute>
+  <group>
+    <name>Character Archetype</name>
+
+    <attribute>
+      <id>characterTypeSelect</id>
+      <name>Character Type</name>
+      <option>
+        <name>Hero</name>
+        <weight>15</weight>
+      </option>
+      <option>
+        <name>Villain</name>
+        <weight>15</weight>
+      </option>
+      <option>
+        <name>Common Folk</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+    <attribute>
+      <id>heroTypesSelect</id>
+      <name>Archetype</name>
+      <option>
+        <name>Enigmatic Hero</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Cynical Hero</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Loner Hero</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Hot Shot Hero</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Honorable Hero</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Charming Hero</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Clumsy Hero</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Brave Hero</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Vulgar Hero</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Cowardly Hero</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Jack of All Trades Hero</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>villainTypesSelect</id>
+      <name>Archetype</name>
+      <option>
+        <name>Enigmatic Villain</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Cynical Villain</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Manipulative Villain</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Loner Villain</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Hot Shot Villain</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Honorable Villain</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Sadistic Villain</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Charming Villain</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Clumsy Villain</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Vulgar Villain</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Mentally Unstable Villain</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>commonTypesSelect</id>
+      <name>Archetype</name>
+      <option>
+        <name>Charming Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Cowardly Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Shy Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Superstitious Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>No Ambition Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Deceptive Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Vulgar Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Drunkard Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Jealous Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Foolish Type</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+    <attribute>
+      <id>heroSubTypesSelect</id>
+      <name>Role</name>
+      <option>
+        <name>Diety Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Royalty Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Occultist Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Religious Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Warrior/Soldier Type</name>
+        <weight>3</weight>
+      </option>
+      <option>
+        <name>Comedic Performer Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Spy Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Law Enforcer Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Thief Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Vigilante Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Raider Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Mercenary Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Gangster Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Assasin Type</name>
+        <weight>2</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>villainSubTypesSelect</id>
+      <name>Role</name>
+      <option>
+        <name>Corrupt Diety Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Corrupt Royalty Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Corrupt Occultist Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Corrupt Religious Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Corrupt Warrior/Soldier Type</name>
+        <weight>3</weight>
+      </option>
+      <option>
+        <name>Corrupt Comedic Performer Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Corrupt Spy Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Corrupt Law Enforcer Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Thief Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Vigilante Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Raider Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Mercenary Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Gangster Type</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Assasin Type</name>
+        <weight>2</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>commonSubTypesSelect</id>
+      <name>Role</name>
+      <option>
+        <name>Business Owner Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Forger/Smith Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Appraiser Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Dealer Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Dancer Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Seductress/Seducer Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Wise Man/Woman Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Visionary/Arts Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Mason/Builder Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Farmer Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Scientist Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Philosopher Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Peasant Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Healer Type</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>characterGenderTypeSelect</id>
+      <name>Gender</name>
+      <option>
+        <name>Male</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Female</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+    <attribute>
+      <id>characterZodiacElementTypeSelect</id>
+      <name>Zodiac/Element</name>
+      <option>
+        <name>Aries/Fire</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Taurus/Earth</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Gemini/Wind</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Cancer/Water</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Leo/Fire</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Virgo/Earth</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Libra/Wind</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Scorpio/Water</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Sagittarius/Fire</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Capricorn/Earth</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Aquarius/Wind</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Pisces/Water</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <name>characterPowerTypeSelect</name>
+      <name>Powers</name>
+      <option>
+        <name>None</name>
+        <weight>15</weight>
+      </option>
+      <option>
+        <name>Shape Shifter Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Transformation Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Magician Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Summoner Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Absorption/Vampire Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Accelerated Recovery Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Healer Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Psychic Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Telekinetic Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Telepathic Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Invisibility Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Prehensile Hair Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Merging Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Harmonic/Vocal Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Super Human Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Water Breathing Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Wall Crawling Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Environmental Control Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Energy Manipulation Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Time Control Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Teleportation Type</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+  </group>
+
+
+  <group>
+    <name>Physical Traits</name>
+
+    <attribute>
+      <id>characterBodyTypeSelect</id>
+      <name>Body Type</name>
+      <option>
+        <name>Very Muscular/Bulky</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Well Defined/Toned</name>
+        <weight>6</weight>
+      </option>
+      <option>
+        <name>Undefined/Moderate</name>
+        <weight>8</weight>
+      </option>
+      <option>
+        <name>Round/Flabby</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Thin/Fragile</name>
+        <weight>2</weight>
+      </option>
+    </attribute>
+
+    <attribute>
+      <id>characterHeightSelect</id>
+      <name>Height</name>
+      <option>
+        <name>Tall/8ft+</name>
+        <weight>3</weight>
+      </option>
+      <option>
+        <name>Moderate/6ft+</name>
+        <weight>4</weight>
+      </option>
+      <option>
+        <name>Short/5ft-</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>characterSkinToneSelect</id>
+      <name>Skin Tone</name>
+      <option>
+        <name>Very Light/80%-90%</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>Light Moderate/60%-70%</name>
+        <weight>3</weight>
+      </option>
+      <option>
+        <name>Light/40%-50%</name>
+        <weight>7</weight>
+      </option>
+      <option>
+        <name>Dark Moderate/60%-70%</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Very Dark/80%-90%</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>characterFaceTypeSelect</id>
+      <name>Face Type</name>
+      <option>
+        <name>Oval Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Rectangle Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Round Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Square Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Heart Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Triangle Type</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>characterHairColorSelect</id>
+      <name>Hair Color</name>
+      <option>
+        <name>Brown Variation</name>
+        <weight>3</weight>
+      </option>
+      <option>
+        <name>Blond Variation</name>
+        <weight>3</weight>
+      </option>
+      <option>
+        <name>Green Variation</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Red Variation</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Orange Variation</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Purple Variation</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Blue Variation</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Black Variation</name>
+        <weight>3</weight>
+      </option>
+      <option>
+        <name>White Variation</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>characterHairStyleSelect</id>
+      <name>Hair Style</name>
+      <option>
+        <name>None</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Curly Type</name>
+        <weight>9</weight>
+      </option>
+      <option>
+        <name>Waved Type</name>
+        <weight>9</weight>
+      </option>
+      <option>
+        <name>Straight Type</name>
+        <weight>9</weight>
+      </option>
+      <option>
+        <name>Coiled Type</name>
+        <weight>9</weight>
+      </option>
+    </attribute>
+
+    <attribute>
+      <id>characterHairLengthSelect</id>
+      <name>Hair Length</name>
+      <option>
+        <name>Bald</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Very Long</name>
+        <weight>5</weight>
+      </option>
+      <option>
+        <name>Long</name>
+        <weight>5</weight>
+      </option>
+      <option>
+        <name>Moderate</name>
+        <weight>5</weight>
+      </option>
+      <option>
+        <name>Short</name>
+        <weight>5</weight>
+      </option>
+      <option>
+        <name>Very Short</name>
+        <weight>3</weight>
+      </option>
+    </attribute>
+
+    <attribute>
+      <id>characterEyebrowShapeSelect</id>
+      <name>Eyebrow Shape</name>
+      <option>
+        <name>Angled</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Arched</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Curved</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Flat</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+    <attribute>
+      <id>characterEyeShapeSelect</id>
+      <name>Eye Shape</name>
+      <option>
+        <name>Almond Eyes</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Small Eyes</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Prominent Eyes</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Hooded Eyes</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Deep-set Eyes</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Oriental Eyes</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+    <attribute>
+      <id>characterEyeColorSelect</id>
+      <name>Eye Color</name>
+      <option>
+        <name>Brown</name>
+        <weight>3</weight>
+      </option>
+      <option>
+        <name>Hazel</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Gray</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Blue</name>
+        <weight>3</weight>
+      </option>
+      <option>
+        <name>Amber</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Green</name>
+        <weight>3</weight>
+      </option>
+      <option>
+        <name>Violet</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Red</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Black</name>
+        <weight>3</weight>
+      </option>
+      <option>
+        <name>White</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+    <attribute>
+      <id>characterEarShapeSelect</id>
+      <name>Ear Shape</name>
+      <option>
+        <name>Very Pointy</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Pointy</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Large</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Moderate</name>
+        <weight>6</weight>
+      </option>
+      <option>
+        <name>Small</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Very Small</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+    <attribute>
+      <id>characterNoseShapeSelect</id>
+      <name>Nose Shape</name>
+      <option>
+        <name>Greek Nose</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Snub Nose</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Nubian Nose</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Roman Nose</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Hawk Nose</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Turned up Nose</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+    <attribute>
+      <id>characterLipShapeSelect</id>
+      <name>Lip Shape</name>
+      <option>
+        <name>Very Fleshed</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Full</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Heart Shaped</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Thin</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Very Thin</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+    <attribute>
+      <id>characterSkinVariantsSelect</id>
+      <name>Skin Variants</name>
+      <option>
+        <name>None</name>
+        <weight>10</weight>
+      </option>
+      <option>
+        <name>Freckles</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Mole</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Scratch</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Burn</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Cut</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+    <attribute>
+      <id>characterFacialHairSelect</id>
+      <name>Facial Hair</name>
+      <option>
+        <name>None</name>
+        <weight>7</weight>
+      </option>
+      <option>
+        <name>Very Hairy/Long Beard</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Hairy/Small Beard</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Lightly Bearded</name>
+        <weight>2</weight>
+      </option>
+      <option>
+        <name>5 O'clock Shadow</name>
+        <weight>2</weight>
+      </option>
+    </attribute>
+  </group>
+
+  <group>
+    <name>Fashion</name>
+
+    <attribute>
+      <id>characterClothingErasSelect</id>
+      <name>Clothing Era</name>
+      <option>
+        <name>Ancient Egyptian Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Ancient Greek Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Ancient Roman Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Ancient Chinese Fashion/Cloth</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Native American Tribal Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Barbarian Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Traditional Spanish Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Traditional German Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Traditional African Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Traditional Russian Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Traditional Japanese Fashion Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Traditional Turkish Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Traditional Mongolian Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Traditional Indian Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Islamic Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Medieval Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Renaissance Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Regency Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Romantic Era Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Victorian Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Edwardian Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Modern Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Futuristic Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Punk/Rocker Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Gothic Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Steam Punk Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Post Apocalyptic Fashion/Clothing</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>characterClothingTypeSelect</id>
+      <name>Clothing Type</name>
+      <option>
+        <name>Loose Garment Type</name>
+        <weight>5</weight>
+      </option>
+      <option>
+        <name>Fur Type</name>
+        <weight>5</weight>
+      </option>
+      <option>
+        <name>Short/Revealing Type</name>
+        <weight>6</weight>
+      </option>
+      <option>
+        <name>Heavy Wear Type</name>
+        <weight>5</weight>
+      </option>
+      <option>
+        <name>One-Piece Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Armor Type</name>
+        <weight>5</weight>
+      </option>
+    </attribute>
+  </group>
+
+  <group>
+    <name>Accessories</name>
+    <attribute>
+      <id>characterHairAccessorySelect</id>
+      <name>Hair</name>
+      <option>
+        <name>None</name>
+        <weight>10</weight>
+      </option>
+      <option>
+        <name>Hairpin</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Fascinator</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Ribbon</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Feather</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Band</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>characterHeadAccessorySelect</id>
+      <name>Head</name>
+      <option>
+        <name>None</name>
+        <weight>10</weight>
+      </option>
+      <option>
+        <name>Earrings</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Earcuffs</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Nose Jewelry</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Cloth</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Crown</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Circlet</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Hat</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Earcuffs</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>characterNeckAccessorySelect</id>
+      <name>Neck</name>
+      <option>
+        <name>None</name>
+        <weight>10</weight>
+      </option>
+      <option>
+        <name>Necklace</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Choker</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Chain</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Tattoo</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>characterLeftArmAccessorySelect</id>
+      <name>Left Arm</name>
+      <option>
+        <name>None</name>
+        <weight>10</weight>
+      </option>
+      <option>
+        <name>Armlet</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Bangle</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Tattoo</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>characterRightArmAccessorySelect</id>
+      <name>Right Arm</name>
+      <option>
+        <name>None</name>
+        <weight>10</weight>
+      </option>
+      <option>
+        <name>Armlet</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Bangle</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Tattoo</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>characterLeftHandAccessorySelect</id>
+      <name>Left Hand</name>
+      <option>
+        <name>None</name>
+        <weight>10</weight>
+      </option>
+      <option>
+        <name>Rings</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Bracelet</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Hand Jewelry</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>characterRightHandAccessorySelect</id>
+      <name>Right Hand</name>
+      <option>
+        <name>None</name>
+        <weight>10</weight>
+      </option>
+      <option>
+        <name>Rings</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Bracelet</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Hand Jewelry</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>characterLeftLegAccessorySelect</id>
+      <name>Left Leg</name>
+      <option>
+        <name>None</name>
+        <weight>10</weight>
+      </option>
+      <option>
+        <name>Strap</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Leg Band</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Tattoo</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>characterRightLegAccessorySelect</id>
+      <name>Right Leg</name>
+      <option>
+        <name>None</name>
+        <weight>10</weight>
+      </option>
+      <option>
+        <name>Strap</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Leg Band</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Tattoo</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>characterLeftFootAccessorySelect</id>
+      <name>Left Foot</name>
+      <option>
+        <name>None</name>
+        <weight>10</weight>
+      </option>
+      <option>
+        <name>Anklet</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Toe Ring</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+
+
+    <attribute>
+      <id>characterRightFootAccessorySelect</id>
+      <name>Right Foot</name>
+      <option>
+        <name>None</name>
+        <weight>10</weight>
+      </option>
+      <option>
+        <name>Anklet</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Toe Ring</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+  </group>
+
+  <group>
+    <name>Weaponry</name>
+    <attribute>
+      <name>Weaponry</name>
+      <id>characterWeaponrySelect</id>
+      <option>
+        <name>None</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Piercing Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Slicing Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Throwing Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Punching Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Launching Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Blunted Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Whipping Type</name>
+        <weight>1</weight>
+      </option>
+      <option>
+        <name>Sawing Type</name>
+        <weight>1</weight>
+      </option>
+    </attribute>
+  </group>
 
   <affix>
     <name>prefixMale</name>
